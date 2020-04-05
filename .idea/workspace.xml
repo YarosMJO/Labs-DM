@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aacde169-c31b-497b-bdcc-f8adc759825b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZzJwPJcY8Dzyw17yWkjklozPXQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com.lab/two/MailDelivery.java" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\frostrch\IdeaProjects\Yaroslav\src\com.lab" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Izomorphizm">
+    <configuration name="AlgoLee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rgr.AlgoLee" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Boruvka" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lab.one.Boruvka" />
+      <module name="Yaroslav" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Izomorphizm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lab.five.Izomorphizm" />
+      <module name="Yaroslav" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MailDelivery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lab.two.MailDelivery" />
+      <module name="Yaroslav" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.lab.Main" />
+      <module name="Yaroslav" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stonks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lab.three.Stonks" />
+      <module name="Yaroslav" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VoyageQuest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lab.four.VoyageQuest" />
+      <module name="Yaroslav" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Izomorphizm" />
+        <item itemvalue="Application.VoyageQuest" />
+        <item itemvalue="Application.Stonks" />
+        <item itemvalue="Application.MailDelivery" />
+        <item itemvalue="Application.AlgoLee" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aacde169-c31b-497b-bdcc-f8adc759825b" name="Default Changelist" comment="" />
+      <created>1585836226610</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585836226610</updated>
+      <workItem from="1585836229584" duration="1729000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="119" key="#AlgoLee" timestamp="1586018657686">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="574" y="119" key="#AlgoLee/0.0.1707.920@0.0.1707.920" timestamp="1586018657686" />
+    <state x="447" y="119" key="#Project_Structure" timestamp="1586008632656">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="447" y="119" key="#Project_Structure/0.0.1707.920@0.0.1707.920" timestamp="1586008632656" />
+    <state x="310" y="116" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586009764496">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="310" y="116" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.920@0.0.1707.920" timestamp="1586009764496" />
+    <state x="584" y="244" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586018602867">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="584" y="244" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1707.920@0.0.1707.920" timestamp="1586018602867" />
+    <state width="425" height="466" key="DebuggerActiveHint" timestamp="1586065861270">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="425" height="466" key="DebuggerActiveHint/0.0.1707.920@0.0.1707.920" timestamp="1586065861270" />
+    <state x="635" y="216" key="FileChooserDialogImpl" timestamp="1586009777980">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="635" y="216" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1586009777980" />
+    <state width="1686" height="234" key="GridCell.Tab.0.bottom" timestamp="1586096915609">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1686" height="234" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1586096915609" />
+    <state width="1686" height="234" key="GridCell.Tab.0.center" timestamp="1586096915609">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1686" height="234" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1586096915609" />
+    <state width="1686" height="234" key="GridCell.Tab.0.left" timestamp="1586096915609">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1686" height="234" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1586096915609" />
+    <state width="1686" height="234" key="GridCell.Tab.0.right" timestamp="1586096915609">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1686" height="234" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1586096915609" />
+    <state width="1686" height="234" key="GridCell.Tab.1.bottom" timestamp="1586096915609">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1686" height="234" key="GridCell.Tab.1.bottom/0.0.1707.920@0.0.1707.920" timestamp="1586096915609" />
+    <state width="1686" height="234" key="GridCell.Tab.1.center" timestamp="1586096915609">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1686" height="234" key="GridCell.Tab.1.center/0.0.1707.920@0.0.1707.920" timestamp="1586096915609" />
+    <state width="1686" height="234" key="GridCell.Tab.1.left" timestamp="1586096915609">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1686" height="234" key="GridCell.Tab.1.left/0.0.1707.920@0.0.1707.920" timestamp="1586096915609" />
+    <state width="1686" height="234" key="GridCell.Tab.1.right" timestamp="1586096915609">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1686" height="234" key="GridCell.Tab.1.right/0.0.1707.920@0.0.1707.920" timestamp="1586096915609" />
+    <state x="552" y="285" key="com.intellij.ide.util.TipDialog" timestamp="1586064583843">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="552" y="285" key="com.intellij.ide.util.TipDialog/0.0.1707.920@0.0.1707.920" timestamp="1586064583843" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com.lab/one/Boruvka.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
